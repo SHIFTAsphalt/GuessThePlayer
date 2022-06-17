@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b0b64fbb-aa54-4da5-8c52-cef500dedcfa": {
+      "ProjectGuid": "b0b64fbb-aa54-4da5-8c52-cef500dedcfa",
+      "DisplayName": "GuessThePlayer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
