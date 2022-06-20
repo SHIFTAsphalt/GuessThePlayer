@@ -1,0 +1,38 @@
+{
+	"Quarterbacks" : {
+		"QB1" : "Mitch Trubisky",
+		"QB2" : "Kenny Pickett",
+		"QB3" : "Mason Rudolph",
+		"QB4" : "Chris Oladokun"
+	},
+	"Wide Receivers" : {
+		"WR1" : "Diontae Johnson",
+		"WR2" : "Chase Claypool",
+		"WR3" : "George Pickens",
+		"WR4" : "Calvin Austin III",
+		"WR5" : "Miles Boykin",
+		"WR6" : "Anthony Miller",
+		"WR7" : "Gunner Olszewski",
+		"WR8" : "Cody White",
+		"WR9" : "Steven Sims"
+	},
+	"Tight Ends" : {
+		"TE1" : "Pat Freiermuth",
+		"TE2" : "Zach Gentry",
+		"TE3" : "Kevin Rader"
+	},
+	"Running Backs" : {
+		"RB1" : "Najee Harris",
+		"RB2" : "Benny Snell Jr",
+		"RB3" : "Anthony McFarland Jr",
+		"RB4" : "Trey Edmunds"
+	},
+	"Full Backs" : {
+		"FB1" : "Derek Watt",
+		"FB2" : "N/A"
+	},
+	"Kickers" : {
+		"K1" : "Chris Boswell",
+		"K2" : "Nick Sciba"
+	}
+}
