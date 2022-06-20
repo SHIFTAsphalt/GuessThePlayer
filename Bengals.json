@@ -1,0 +1,38 @@
+{
+	"Quarterbacks" : {
+		"QB1" : "Joe Burrow",
+		"QB2" : "Brandon Allen",
+		"QB3" : "Jake Browning",
+		"QB4" : ""
+	},
+	"Wide Receivers" : {
+		"WR1" : "Ja'Marr Chase",
+		"WR2" : "Tee Higgins",
+		"WR3" : "Tyler Boyd",
+		"WR4" : "Mike Thomas",
+		"WR5" : "Stanley Morgan",
+		"WR6" : "Trent Taylor",
+		"WR7" : "Trenton Irwin",
+		"WR8" : "Pooka Williams Jr",
+		"WR9" : "Jaivon Heiligh"
+	},
+	"Tight Ends" : {
+		"TE1" : "Hayden Hurst",
+		"TE2" : "Drew Sample",
+		"TE3" : "Mitchell Wilcox"
+	},
+	"Running Backs" : {
+		"RB1" : "Joe Mixon",
+		"RB2" : "Samaje Perine",
+		"RB3" : "Chris Evans",
+		"RB4" : "Trayveon Williams"
+	},
+	"Full Backs" : {
+		"FB1" : "",
+		"FB2" : ""
+	},
+	"Kickers" : {
+		"K1" : "Evan McPherson",
+		"K2" : ""
+	}
+}

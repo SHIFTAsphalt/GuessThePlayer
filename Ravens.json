@@ -1,0 +1,38 @@
+{
+	"Quarterbacks" : {
+		"QB1" : "Lamar Jackson",
+		"QB2" : "Tyler Huntley",
+		"QB3" : "Brett Hundley",
+		"QB4" : "Anthony Brown"
+	},
+	"Wide Receivers" : {
+		"WR1" : "Rashod Bateman",
+		"WR2" : "Devin Duvernay",
+		"WR3" : "James Proche II",
+		"WR4" : "Tylan Wallace",
+		"WR5" : "Jaylon Moore",
+		"WR6" : "Binjimen Victor",
+		"WR7" : "Slade Bolden",
+		"WR8" : "Shemar Bridges",
+		"WR9" : "Trevon Clark"
+	},
+	"Tight Ends" : {
+		"TE1" : "Mark Andrews",
+		"TE2" : "Nick Boyle",
+		"TE3" : "Charlie Kolar"
+	},
+	"Running Backs" : {
+		"RB1" : "J.K. Dobbins",
+		"RB2" : "Gus Edwards",
+		"RB3" : "Mike Davis",
+		"RB4" : "Justice Hill"
+	},
+	"Full Backs" : {
+		"FB1" : "Patrick Ricard",
+		"FB2" : "Ben Mason",
+	},
+	"Kickers" : {
+		"K1" : "Justin Tucker",
+		"K2" : ""
+	}
+}

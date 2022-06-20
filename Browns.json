@@ -1,0 +1,38 @@
+{
+	"Quarterbacks" : {
+		"QB1" : "Deshaun Watson",
+		"QB2" : "Baker Mayfield",
+		"QB3" : "Jacoby Brissett",
+		"QB4" : "Joshua Dobbs"
+	},
+	"Wide Receivers" : {
+		"WR1" : "Amari Cooper",
+		"WR2" : "Donovan Peoples-Jones",
+		"WR3" : "David Bell",
+		"WR4" : "Anthony Schwartz",
+		"WR5" : "Jakeem Grant Sr",
+		"WR6" : "Ja'Marcus Bradley",
+		"WR7" : "Michael Woods II",
+		"WR8" : "Javon Wims",
+		"WR9" : "Isaiah Weston"
+	},
+	"Tight Ends" : {
+		"TE1" : "David Njoku",
+		"TE2" : "Harrison Bryant",
+		"TE3" : "Miller Forristall"
+	},
+	"Running Backs" : {
+		"RB1" : "Nick Chubb",
+		"RB2" : "Kareem Hunt",
+		"RB3" : "D'Ernest Johnson",
+		"RB4" : "Jerome Ford"
+	},
+	"Full Backs" : {
+		"FB1" : "Johhny Stanton",
+		"FB2" : ""
+	},
+	"Kickers" : {
+		"K1" : "Cade York",
+		"K2" : ""
+	}
+}
