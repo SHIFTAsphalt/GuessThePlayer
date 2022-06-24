@@ -1,0 +1,38 @@
+{
+	"Quarterbacks" : {
+		"QB1" : "Zach Wilson",
+		"QB2" : "Joe Flacco",
+		"QB3" : "Mike White",
+		"QB4" : ""
+	},
+	"Wide Receivers" : {
+		"WR1" : "Elijah Moore",
+		"WR2" : "Corey Davis",
+		"WR3" : "Garrett Wilson",
+		"WR4" : "Braxton Berrios",
+		"WR5" : "Denzel Mims",
+		"WR6" : "Jeff Smith",
+		"WR7" : "Tarik Black",
+		"WR8" : "Keshunn Abram",
+		"WR9" : "Irvin Charles"
+	},
+	"Tight Ends" : {
+		"TE1" : "C. J. Uzomah",
+		"TE2" : "Tyler Conklin",
+		"TE3" : "Jeremy Ruckert"
+	},
+	"Running Backs" : {
+		"RB1" : "Breece Hall",
+		"RB2" : "Michael Carter",
+		"RB3" : "Tevin Coleman",
+		"RB4" : "Ty Johnson"
+	},
+	"Full Backs" : {
+		"FB1" : "Nick Bawden",
+		"FB2" : ""
+	},
+	"Kickers" : {
+		"K1" : "Greg Zuerlein",
+		"K2" : "Eddy Pineiro"
+	}
+}

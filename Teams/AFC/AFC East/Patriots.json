@@ -1,0 +1,38 @@
+{
+	"Quarterbacks" : {
+		"QB1" : "Mac Jones",
+		"QB2" : "Brian Hoyer",
+		"QB3" : "Bailey Zappe",
+		"QB4" : ""
+	},
+	"Wide Receivers" : {
+		"WR1" : "DeVante Parker",
+		"WR2" : "Jakobi Meyers",
+		"WR3" : "Kendrick Bourne",
+		"WR4" : "Nelson Agholor",
+		"WR5" : "Tyquan Thorton",
+		"WR6" : "N'Keal Harry",
+		"WR7" : "Ty Montgomery",
+		"WR8" : "Lil'Jordan Humphrey",
+		"WR9" : "Tre Nixon"
+	},
+	"Tight Ends" : {
+		"TE1" : "Hunter Henry",
+		"TE2" : "Jonnu Smith",
+		"TE3" : "Devin Asiasi"
+	},
+	"Running Backs" : {
+		"RB1" : "Damien Harris",
+		"RB2" : "Rhamondre Stevenson",
+		"RB3" : "James White",
+		"RB4" : "Pierre Strong Jr."
+	},
+	"Full Backs" : {
+		"FB1" : "",
+		"FB2" : ""
+	},
+	"Kickers" : {
+		"K1" : "Nick Folk",
+		"K2" : "Tristan Vizcaino"
+	}
+}

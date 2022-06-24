@@ -1,0 +1,38 @@
+{
+	"Quarterbacks" : {
+		"QB1" : "Tua Tagovailoa",
+		"QB2" : "Teddy Bridgewater",
+		"QB3" : "Skylar Thompson",
+		"QB4" : ""
+	},
+	"Wide Receivers" : {
+		"WR1" : "Tyreek Hill",
+		"WR2" : "Jaylen Waddle",
+		"WR3" : "Cedrick Wilson",
+		"WR4" : "Erik Ezukanma",
+		"WR5" : "Lynn Bowden Jr.",
+		"WR6" : "Trent Sherfield",
+		"WR7" : "Preston Williams",
+		"WR8" : "Cody Core",
+		"WR9" : "River Cracraft"
+	},
+	"Tight Ends" : {
+		"TE1" : "Mike Gesicki",
+		"TE2" : "Durham Smythe",
+		"TE3" : "Adam Shaheen"
+	},
+	"Running Backs" : {
+		"RB1" : "Chase Edmonds",
+		"RB2" : "Raheem Mostert",
+		"RB3" : "Sony Michel",
+		"RB4" : "Myles Gaskin"
+	},
+	"Full Backs" : {
+		"FB1" : "Alec Ingold",
+		"FB2" : "John Lovett"
+	},
+	"Kickers" : {
+		"K1" : "Jason Sanders",
+		"K2" : ""
+	}
+}

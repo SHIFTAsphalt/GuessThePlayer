@@ -1,0 +1,38 @@
+{
+	"Quarterbacks" : {
+		"QB1" : "Josh Allen",
+		"QB2" : "Case Keenum",
+		"QB3" : "Matt Barkley",
+		"QB4" : ""
+	},
+	"Wide Receivers" : {
+		"WR1" : "Stefon Diggs",
+		"WR2" : "Gabriel Davis",
+		"WR3" : "Jamison Crowder",
+		"WR4" : "Isaiah McKenzie",
+		"WR5" : "Khalil Shakir",
+		"WR6" : "Tavon Austin",
+		"WR7" : "Marquez Stevenson",
+		"WR8" : "Jake Kumerow",
+		"WR9" : "Isaiah Hodgins"
+	},
+	"Tight Ends" : {
+		"TE1" : "Dawson Knox",
+		"TE2" : "O. J. Howard",
+		"TE3" : "Tommy Sweeny"
+	},
+	"Running Backs" : {
+		"RB1" : "Devin Singletary",
+		"RB2" : "James Cook",
+		"RB3" : "Zack Moss",
+		"RB4" : "Duke Johnson"
+	},
+	"Full Backs" : {
+		"FB1" : "Reggie Gilliam",
+		"FB2" : ""
+	},
+	"Kickers" : {
+		"K1" : "Tyler Bass",
+		"K2" : ""
+	}
+}

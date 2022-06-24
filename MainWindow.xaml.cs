@@ -24,13 +24,12 @@ namespace GuessThePlayer
     /// </summary>
     public partial class MainWindow : Window
     {
-        private static int index = 0;
         private Team teamObject;
 
         public MainWindow()
         {
             InitializeComponent();
-            string filename = "C:/Users/alangley/Desktop/Stuff/Football/GuessThePlayer/GuessThePlayer/Team.json";
+            string filename = "C:/Users/alangley/Desktop/Stuff/Football/GuessThePlayer/GuessThePlayer/Teams/AFC/AFC North/Steelers.json";
             string teamJson = File.ReadAllText(filename);
             teamObject = JsonSerializer.Deserialize<Team>(teamJson);
         }
@@ -38,14 +37,14 @@ namespace GuessThePlayer
         private void New_Player_Click(object sender, RoutedEventArgs e)
         {
             
-            //var teams = new List<Team>
-            //{
-            //    new Team {QB = "Test QB", WR = "Test WR", RB = "Test RB"},
-            //    new Team {QB = "Test QB1", WR = "Test WR1", RB = "Test RB1"}
-            //};
+            var teams = new Team
+            {
+                Quarter_backs = {"Test QB", "Test 2"},
+                Wide_Receivers = {"Test WR"},
+                Running_Backs = {"Test RB"}
+            };
 
-            lblNewPlayer.Content = teamObject[index];
-            index = (index < 2) ? index + 1 : 0;
+            lblNewPlayer.Content = teamObject.Quarter_backs[0];
             //lblNewPlayer.Content = (JsonSerializer.Serialize(teams));
         }
 

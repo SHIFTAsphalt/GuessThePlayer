@@ -1,0 +1,38 @@
+{
+	"Quarter_backs" : [
+		"Mitch Trubisky",
+		"Kenny Pickett",
+		"Mason Rudolph",
+		"Chris Oladokun"
+	],
+	"Wide_Receivers" : [
+		"Diontae Johnson",
+		"Chase Claypool",
+		"George Pickens",
+		"Calvin Austin III",
+		"Miles Boykin",
+		"Anthony Miller",
+		"Gunner Olszewski",
+		"Cody White",
+		"Steven Sims"
+	],
+	"Tight_Ends" : [
+		"Pat Freiermuth",
+		"Zach Gentry",
+		"Kevin Rader"
+	],
+	"Running_Backs" : [
+		"Najee Harris",
+		"Benny Snell Jr",
+		"Anthony McFarland Jr",
+		"Trey Edmunds"
+	],
+	"Full_Backs" : [
+		"Derek Watt",
+		""
+	],
+	"Kickers" : [
+		"Chris Boswell",
+		"Nick Sciba"
+	]
+}

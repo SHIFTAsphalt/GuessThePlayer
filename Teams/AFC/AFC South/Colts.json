@@ -1,0 +1,38 @@
+{
+	"Quarterbacks" : {
+		"QB1" : "",
+		"QB2" : "",
+		"QB3" : "",
+		"QB4" : ""
+	},
+	"Wide Receivers" : {
+		"WR1" : "",
+		"WR2" : "",
+		"WR3" : "",
+		"WR4" : "",
+		"WR5" : "",
+		"WR6" : "",
+		"WR7" : "",
+		"WR8" : "",
+		"WR9" : ""
+	},
+	"Tight Ends" : {
+		"TE1" : "",
+		"TE2" : "",
+		"TE3" : ""
+	},
+	"Running Backs" : {
+		"RB1" : "",
+		"RB2" : "",
+		"RB3" : "",
+		"RB4" : ""
+	},
+	"Full Backs" : {
+		"FB1" : "",
+		"FB2" : ""
+	},
+	"Kickers" : {
+		"K1" : "",
+		"K2" : ""
+	}
+}
